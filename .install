@@ -1,0 +1,35 @@
+## ASR ##
+# System #
+zsh
+neovim
+firefox
+xorg
+xorg-xinit
+ranger
+exa
+gtop
+alacritty
+feh
+lxappearance-gtk3
+neofetch
+bat
+light
+
+# Coding #
+code
+rustup
+
+# BSPWM #
+bspwm
+sxhkd
+polybar
+bemenu
+
+## AUR ##
+# Fonts #
+noto-fonts-sc
+ttf-font-awesome-4
+ttf-jetbrains-mono
+
+# Themes #
+gtk-theme-solarc-git

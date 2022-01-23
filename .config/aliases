@@ -1,0 +1,21 @@
+#!/usr/bin/zsh
+
+# Navigation
+alias ..="cd .."
+alias ...="cd ../.."
+
+# Folders
+alias d="cd ~/dev"
+alias dn="cd ~/dev/NWT"
+
+# ls
+alias ls="exa"
+alias la="ls -la"
+
+# Programs
+alias vim="nvim"
+alias cat="bat"
+
+# Misc
+alias sp="curl -F 'sprunge=<-' http://sprunge.us"
+alias battery="/usr/bin/cat /sys/class/power_supply/BAT0/capacity"
